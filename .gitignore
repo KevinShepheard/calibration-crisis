@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+
+# Local data (user-supplied)
+data/
+results/
+hide/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
